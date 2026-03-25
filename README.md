@@ -9,3 +9,4 @@ Student: Danuta Grabovska
 The links to .ipynb notebooks submitted as final versions of the homework assignments will be listed below.
 
 [Homework №1](https://github.com/polymatheiia/ML2025L/blob/main/solutions/homework1.ipynb)
+[Homework №3](https://github.com/polymatheiia/ML2025L/blob/main/solutions/homework3.ipynb)
