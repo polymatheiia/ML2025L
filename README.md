@@ -10,3 +10,4 @@ The links to .ipynb notebooks submitted as final versions of the homework assign
 
 - [Homework №1](https://github.com/polymatheiia/ML2025L/blob/main/solutions/homework1.ipynb)
 - [Homework №3](https://github.com/polymatheiia/ML2025L/blob/main/solutions/homework3.ipynb)
+- [Homework №7](https://github.com/polymatheiia/ML2025L/blob/main/solutions/homework7.ipynb)
